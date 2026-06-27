@@ -77,11 +77,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
       if ((event.body.toLowerCase() == "🤗") || (event.body.toLowerCase() == "🤗")) {
        return api.sendMessage("yahan nahi Ib chalo ☺️", threadID);
      };
-    if ((event.body.toLowerCase() == "shaan") || (event.body.toLowerCase() == "shan")) {
+    if ((event.body.toLowerCase() == "mirnaheef") || (event.body.toLowerCase() == "haneef")) {
        return api.sendMessage("Boss busy hai Mujse bat Karo 🙄", threadID);
      };
     if ((event.body.toLowerCase() == "janu") || (event.body.toLowerCase() == "jan")) {
-       return api.sendMessage("Janu me serf Shaan ki hu samjhy", threadID);
+       return api.sendMessage("Janu me serf haneef ki hu samjhy", threadID);
      };
    if ((event.body.toLowerCase() == "😂😂😂") || (event.body.toLowerCase() == "😁😁😁")) {
        return api.sendMessage("uff kya hass raha hai jese kisi ladki han bolo ho😂😂😂😂", threadID);
@@ -195,7 +195,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
 
      if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "bot ka malik")) {
-       return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟𝙎𝙝𝙖𝙖𝙣 𝙠𝙝𝙖𝙣🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝙎𝙝𝙖𝙖𝙣𝙞. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/𝙈𝙍.𝙎𝙃𝘼𝘼𝙉 345☞    his insta id @Shankhank345 ☜ ༺༒ ༒", threadID);
+       return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟MIRNAHEEF🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 HANEEF. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/𝙈𝙍.𝙎𝙃𝘼𝘼𝙉 345☞    his insta id @Shankhank345 ☜ ༺༒ ༒", threadID);
      };
 
      if ((event.body.toLowerCase() == "tera Malik kon hai") || (event.body.toLowerCase() == "is bot ka malik kon hai")) {
@@ -341,7 +341,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "🥵")) {return api.sendMessage("KUTTY PICHY PAR GAY THY KIYA BHAI 😒", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("IS NAZAR SE MERE OWNER SHAAN KO DEKHO MAZA NA AY TO PAISE WAPIS 😝😂 ", threadID);
+  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("IS NAZAR SE MERE OWNER HANEEF KO DEKHO MAZA NA AY TO PAISE WAPIS 😝😂 ", threadID);
      };
 
   if ((event.body.toLowerCase() == "😎")) {return api.sendMessage("Chasma hatao na sahab kiya naam hai apka😜😜", threadID);
@@ -549,7 +549,7 @@ if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
 
 ${rand}                                        
 
-𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝𝑺𝑯𝑨𝑨𝑵 𝑲𝑯𝑨𝑵 𝑲 ❥||ㅎ
+𝑪𝒓𝒆𝒅𝒊𝒕𝒔:𒁍≛⃝𝑴𝑰𝑹 𝑯𝑨𝑵𝑬𝑬𝑭 ❥||ㅎ
 
 ❖•S━━━━━💞━━━━━A•❖`
   }
