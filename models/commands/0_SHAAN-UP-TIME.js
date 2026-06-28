@@ -42,7 +42,7 @@ module.exports.handleEvent = async ({ api, event, Users }) => {
     try {
         ownerName = await Users.getNameUser(adminID);
     } catch (e) {
-        ownerName = "SHAAN KHAN"; // Fallback name
+        ownerName = "MIR HANEEF"; // Fallback name
     }
 
     const totalCommands = global.client ? global.client.commands.size : "68";
@@ -57,7 +57,7 @@ module.exports.handleEvent = async ({ api, event, Users }) => {
                             `✰ 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 ➪ ${totalCommands} 📊\n` +
                             `✰ 𝗢𝘄𝗻𝗲𝗿 ➪ ${ownerName} 👑\n\n` +
                             `┗━━━━━━━━━━━━━━━━━━━━━━━┛\n` +
-                            `𝗠𝗔𝗗𝗘 𝗕𝗬 ❤️‍🔥 𝗦𝗛𝗔𝗔𝗡 𝗞𝗛𝗔𝗡`;
+                            `𝗠𝗔𝗗𝗘 𝗕𝗬 ❤️‍🔥 ★𝐌𝐈𝐑 𝐇𝐀𝐍𝐄𝐄𝐅★`;
 
     return api.sendMessage(responseMessage, event.threadID, event.messageID);
   }
